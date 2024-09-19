@@ -3,7 +3,7 @@ from pyrogram import Client
 import asyncio
 
 # Ganti dengan API ID dan API Hash kamu
-api_id = CHANGE YOUR API ID  # API ID
+api_id = 'CHANGE YOUR API ID'  # API ID
 api_hash = 'CHANGE YOUR HASH ID'  # API Hash
 
 async def main():
